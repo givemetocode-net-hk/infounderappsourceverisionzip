@@ -1,0 +1,15 @@
+Mark=copyright by givemetocode, nocopyright.(c)2023-4-2309:42pm ( source verision1 )
+amber : 
+	Last_Name=
+	First_Name=
+	wechat_id=
+	school_email=
+marcus : 
+	Last_Name=
+	First_Name=
+	wechat_id=
+	school_email=
+	Phone_Number=
+error : 
+	reason_chinese=請你輸入他/她的英文名 ( 第一個字一定要大寫 )
+	reason_english=Please enter his/her English name (the first word must be capitalized)
